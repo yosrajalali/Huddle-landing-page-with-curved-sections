@@ -89,11 +89,11 @@ section {
 }
 
 .btn {
-  background: var(--Pink);
+  background: var(--Light-Pink);
   border: none;
   border-radius: 6rem;
   padding: 1rem 2rem;
-  color: var(--Very-Pale-Blue);
+  color: #fff;
   box-shadow: 0 3px 16px rgba(0, 0, 0, 0.12);
   cursor: pointer;
   font-weight: 700;
